@@ -244,6 +244,7 @@ public class CameraManagerUtil implements SurfaceHolder.Callback {
         try {
             mCameraManager.openDriver(surfaceHolder);
             mCameraManager.startPreview();
+            mCameraManager.openFocus();
         } catch (IOException ioe) {
             //失败错误回调
             if (mCallback!=null)
