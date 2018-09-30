@@ -5,7 +5,7 @@
 工程目录gradle
 	allprojects {
 		repositories {
-			...
+			...https://github.com/BugSir/CustomCamera/tree/master/app/image/image.gif
 			maven { url 'https://jitpack.io' }
 		}
 	}
@@ -15,7 +15,7 @@
 	}
 </code></pre>
 # 示例
-![Image 示例图片](https://github.com/BugSir/CustomCamera/tree/master/app/image/image.gif)
+![示例图片](https://github.com/BugSir/CustomCamera/blob/master/app/image/image.gif)
 # 使用：<br/>
 #### oncreate初始化：
 ``` java
