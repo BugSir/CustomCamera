@@ -15,7 +15,7 @@
 	}
 </code></pre>
 # 示例
-![Image](https://github.com/BugSir/CustomCamera/tree/master/app/image/image.gif)
+![image](https://github.com/BugSir/CustomCamera/tree/master/app/image/image.gif)
 # 使用：<br/>
 #### oncreate初始化：
 ``` java
