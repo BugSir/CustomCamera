@@ -5,7 +5,6 @@
 工程目录gradle
 	allprojects {
 		repositories {
-			...https://github.com/BugSir/CustomCamera/tree/master/app/image/image.gif
 			maven { url 'https://jitpack.io' }
 		}
 	}
